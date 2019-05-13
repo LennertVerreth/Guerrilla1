@@ -7,7 +7,9 @@ Take ugly site and make it less ugly. Site adapted to the 2019 western standard.
 Lennert@verreth.be
     
 ## Roadmap
-Will soon fix nav link to map
+Will soon fix nav bar
+link to map
+automated calling and mailing
     
 ## Contributing
 Plz do
